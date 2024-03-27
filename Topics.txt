@@ -36,3 +36,8 @@ Rules:
 2. For the inner loop focus on the columns and connect it somehow to the rows.
 3. Print in the inside the inner for loop
 4. (Optional) look for the symmetry
+
+-----------------------
+Pattern Problems
+-----------------------
+Complete Cpp STL (Standard Template Library)
