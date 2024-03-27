@@ -24,4 +24,15 @@ Auxilary space + input space
 Auxilary space ( the space we take to solve the problem)
 input space ( the space we take to store the input problem )
 
+-----------------------
+Steps to solve pattern questions: 
+most of the patterns has nested loops 
 
+outer loop : for the rows 
+inner loop : for the elements 
+
+Rules:
+1. For outter loop, count the number of rows 
+2. For the inner loop focus on the columns and connect it somehow to the rows.
+3. Print in the inside the inner for loop
+4. (Optional) look for the symmetry
