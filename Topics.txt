@@ -1,3 +1,27 @@
 Day 1 
-basics of cpp
-Datatypes, strings, loops, functions, conditionals, pass by value, pass by reference 
+Basics of cpp
+----------------------
+Datatypes, strings, loops, functions,
+conditionals, pass by value, pass by reference 
+-----------------------
+Time and Space complexity
+--------
+Time complexity : The rate at which time taken increases with input size 
+O(big o) -> big O notation
+Always compute the time complexity in worst case scenario
+Avoid constants
+Avoid lowervalues
+
+Big O -> Upperbound
+Theata -> Average complexity
+Omega-> Lowest Bound (best case)
+
+Space complexity: 
+----------
+Big O notaion is used here 
+Auxilary space + input space 
+
+Auxilary space ( the space we take to solve the problem)
+input space ( the space we take to store the input problem )
+
+
